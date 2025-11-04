@@ -1,7 +1,7 @@
 # Backend: AI Voice Agent API (FastAPI)
 
 
-![AI Voice Agent](https://iili.io/KQWX8Ku.png) 
+![AI Voice Agent](https://iili.io/KQXCzLF.png) 
 
 
 This directory contains the Python/FastAPI backend server for the AI Voice Agent project.
